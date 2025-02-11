@@ -1,7 +1,7 @@
 # ML-BLUEPRINT
 ## Overview
 This project is a collection of machine learning algorithms implemented from scratch. It includes various regression and classification models with evaluation metrics. The goal is to understand how these algorithms work internally without relying on built-in libraries like Scikit-Learn.
-# Implemented Algorithms
+## Implemented Algorithms
 ### 1. Linear Regression
 - A supervised learning algorithm that fits a straight line to the data.
 - Used Gradient Descent to find the best parameters.
