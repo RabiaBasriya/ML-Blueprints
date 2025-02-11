@@ -1,4 +1,4 @@
-# ML-BLUEPRINT
+# ML-Blueprints
 ## Overview
 This project is a collection of machine learning algorithms implemented from scratch. It includes various regression and classification models with evaluation metrics. The goal is to understand how these algorithms work internally without relying on built-in libraries like Scikit-Learn.
 ## Implemented Algorithms
