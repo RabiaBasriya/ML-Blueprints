@@ -16,13 +16,4 @@ This project is a collection of machine learning algorithms implemented from scr
 - A classification algorithm that uses the Sigmoid Function to classify data.
 - Implemented binary classification and extended it to multi-class classification using One-Hot Encoding.
 - Achieved an accuracy of 77.18%.
-### 4. K-Nearest Neighbors (KNN)
-- A supervised classification model that assigns a class based on the majority class of its nearest neighbors.
-- Used Euclidean Distance to find the closest neighbors.
-- Achieved an accuracy of 79.46%.
-### 5. Neural Network
-- A model inspired by the human brain, consisting of multiple layers of neurons.
-- Overcomes the limitation of Logistic Regression by handling complex decision boundaries.
-- Used ReLU or Tanh activation functions for hidden layers and Softmax for the output layer.
-- Implemented Backpropagation for training.
-- Achieved an accuracy of 75.62% on image classification.
+
